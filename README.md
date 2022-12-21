@@ -1,5 +1,5 @@
 # Tesla-Project
-Business Analysis of Tesla Entering Indian Market
+**Business Analysis of Tesla Entering Indian Market**
 
 A business insight into how Tesla can enter the Indian market.
 
