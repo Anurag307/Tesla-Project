@@ -1,4 +1,4 @@
-# Tesla-Project(a case-study)
+# Tesla-Project(case-study)
 **Business Analysis of Tesla Entering Indian Market**
 
 A business insight into how Tesla can enter the Indian market.
